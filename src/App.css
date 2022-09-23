@@ -1,0 +1,90 @@
+
+body{
+    background-color:rgb(235, 239, 235);
+}
+.h-screen{
+    background-color:rgb(235, 239, 235);
+}
+.max-w-xs{
+    background-color: white;
+    width: 800px;
+    padding: 20px;
+    border-radius: 10px;
+
+}
+.group{
+    background-color:green;
+    border-radius: 5px;
+}
+.box2 {
+height: 50px;
+background-color: rgb(110, 110, 245);
+color: white;
+}
+
+.doc {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+   text-align: center;
+}
+.bul{
+    background-color:rgb(235, 239, 235);
+}
+.box{
+    background-color: white;
+    text-align: center;
+    border-radius: 10px;   
+  
+}
+
+.f1{
+    background-color: green;
+    border-radius: 20px;
+    width: 100px;
+}
+.f2{
+    border-radius: 20px;
+    width: 100px;
+    border: 1px solid green;
+    color: green;
+}
+.bopx{
+ padding-top: 40px;
+    background-color:rgb(235, 239, 235);
+}
+.inputc{
+border-radius: 10px;
+}
+.c1{
+    font-size: 15px;
+} 
+.c2{
+    font-size: 30px;
+    text-align: center;
+}
+.nave{
+    background-color: green;
+    padding-top: 30px;
+} 
+
+.k1{
+    background-color: white;
+    border: 1px solid green;
+    border-radius: 10px;
+    color: green;
+}
+.k1:hover{
+    background-color: green;
+    border: 1px solid white;
+    border-radius: 10px;
+    color: white;
+}
+.appearance-none{
+    border-radius: 10px;
+}
+.font-medium{
+    display: flex;
+    justify-content: center;
+    
+}
